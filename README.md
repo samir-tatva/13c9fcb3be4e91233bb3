@@ -5,8 +5,8 @@ Engineer AI Practical Test
 ### Usage
 
 ```
-git clone 
-cd 
+git clone https://github.com/samir-tatva/13c9fcb3be4e91233bb3.git
+cd 13c9fcb3be4e91233bb3
 yarn
 ```
 
